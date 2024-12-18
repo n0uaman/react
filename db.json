@@ -1,0 +1,36 @@
+{
+    "stagiaires": [
+      {
+        "id": "1",
+        "nom": "Mouad",
+        "prenom": "Mouad",
+        "photo": "https://picsum.photos/id/2/300/200",
+        "ville": "agadir",
+        "fil": "Full Stack"
+      },
+      {
+        "id": "2",
+        "nom": "Nouaman",
+        "prenom": "Nouaman",
+        "photo": "https://picsum.photos/id/3/300/200",
+        "ville": "agadir",
+        "fil": "Full Stack"
+      },
+      {
+        "id": "3",
+        "nom": "Kamal",
+        "prenom": "Kamal",
+        "photo": "https://picsum.photos/id/5/300/200",
+        "ville": "agadir",
+        "fil": "Full Stack"
+      },
+      {
+        "id": "5",
+        "nom": "jamal",
+        "prenom": "jamal",
+        "photo": "https://picsum.photos/id/2/300/200",
+        "ville": "agadir",
+        "fil": "Full Stack"
+      }
+    ]
+  }
